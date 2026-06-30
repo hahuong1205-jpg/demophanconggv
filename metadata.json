@@ -1,0 +1,6 @@
+{
+  "name": "Phần mềm Phân công và Phân tích Lịch dạy",
+  "description": "Ứng dụng giúp trưởng bộ môn tải file CSV phân công giảng dạy, thực hiện phân công động và trực quan hóa dữ liệu thống kê theo giảng viên, môn học và lớp học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
